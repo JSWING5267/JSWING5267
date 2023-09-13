@@ -1,15 +1,13 @@
-
+![header](https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Junseo%20Park👋&fontSize=70&color=gradient&customColorList=2&animation=fadeIn)
 <div align="center">
-### 박준서's GitHub 👋
 
-<hr/>
 
 
 **Programming**  
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white"/> 
 
 
 
@@ -37,10 +35,14 @@
 
 </hr>
 <hr/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSWING5267&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JSWING5267" />
 
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jswing" />
 </hr>
 <hr/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jswing)](https://solved.ac/jswing/)
 </hr>
+<br>
+<p align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FJSWING5267%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%2300CAFF&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</p>
 <div/>
