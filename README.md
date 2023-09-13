@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white"/> 
 
 
+<br>
+<br>
 
 **Frontend** 
 
@@ -23,6 +25,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Styled-Components&logoColor=white">
+
+<br>
+<br>
 
 **ETC**
 
