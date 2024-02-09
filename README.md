@@ -3,9 +3,9 @@
 
 **Blog**
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://junseopark.notion.site/076b1272c709443ea3a2804e7f408d33?v=71b2d7aaaf664da489623c3cbc16498b&pvs=4)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jswing5267)
 
-<br>
 <br>
 
 **Programming**  
