@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Junseo%20Park👋&fontSize=70&color=gradient&customColorList=2&animation=fadeIn)
 <div align="center">
 
+**Blog**
 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+
+<br>
+<br>
 
 **Programming**  
   
