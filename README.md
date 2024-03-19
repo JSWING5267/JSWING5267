@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Junseo%20Park👋&fontSize=70&color=gradient&customColorList=2&animation=fadeIn)
 <div align="center">
 
-**Blog**
+**Info**
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:junsoe.park.418@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-DF0101?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:junsoe.park.418@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black)](https://junseopark.notion.site/076b1272c709443ea3a2804e7f408d33?v=71b2d7aaaf664da489623c3cbc16498b&pvs=4)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jswing5267)
 
