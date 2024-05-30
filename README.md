@@ -50,7 +50,6 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSWING5267&show_icons=true&theme=tokyonight" />
 
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jswing" />
 </div>
 </hr>
 <hr/>
